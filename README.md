@@ -9,14 +9,14 @@ ReCaptcha Added!
 
 Admin Credential:
 Email: admin@gmail.com
-Pass: o
+ Pass: o
 
 Editor Credential:
 Email: editor@gmail.com
-Pass: o
+ Pass: o
 
 Viewer Credential:
 Email: viewer@gmail.com
-Pass: o
+ Pass: o
 
 Or you can register your own account.
