@@ -7,16 +7,16 @@ ReCaptcha Added!
 - Editor can create upload image and edit uploader name.
 - Viewer can only see uploaded images
 
-Admin Credential:
+* Admin Credential:
 Email: admin@gmail.com
-Pass: o
+,Pass: o
 
-Editor Credential:
+* Editor Credential:
 Email: editor@gmail.com
-Pass: o
+,Pass: o
 
-Viewer Credential:
+* Viewer Credential:
 Email: viewer@gmail.com
-Pass: o
+,Pass: o
 
 Or you can register your own account.
